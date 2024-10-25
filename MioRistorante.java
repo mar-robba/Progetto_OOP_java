@@ -11,7 +11,7 @@ equals
 fill
 arraycopy (volendo per l'estensione dell'array primitivo)
  */
-
+//sas
 public class MioRistorante {
     ///trabocchetto 2:
     // Gli array di int sono già inizializzati a 0 di default
